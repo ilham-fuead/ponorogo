@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mandryn/mandryn": "dev-master",
+        "symfony/debug": "^3.0"
+    }
+}
