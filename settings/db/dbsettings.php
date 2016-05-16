@@ -17,12 +17,12 @@
     $database_name='esila';
     $database_name='test';
      
-    /* Home Notebook */
+    /* Home Notebook 
     $host='localhost';    
     $username='root';
     $password='';
     $database_name='esila';
-     
+    */
     
     //User DB Setting Security
     $userTableName='pengguna';
