@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a3b52738430fd883deb7db368eef0fb6",
+    "hash": "1cd8fce6b6bccf76bc422e5273ed07c4",
     "content-hash": "04841465ae95484873ae2d3de3b87e5b",
     "packages": [
         {
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ilham-fuead/mandryn.git",
-                "reference": "e9c8e3ac6b8fb736d3e6e03260eebcbd412ebdc6"
+                "reference": "32cd8e76d89e20571f923597614eb7bb450af0ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ilham-fuead/mandryn/zipball/e9c8e3ac6b8fb736d3e6e03260eebcbd412ebdc6",
-                "reference": "e9c8e3ac6b8fb736d3e6e03260eebcbd412ebdc6",
+                "url": "https://api.github.com/repos/ilham-fuead/mandryn/zipball/32cd8e76d89e20571f923597614eb7bb450af0ee",
+                "reference": "32cd8e76d89e20571f923597614eb7bb450af0ee",
                 "shasum": ""
             },
             "require": {
@@ -36,7 +36,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "The Artistic License 2.0"
             ],
             "authors": [
                 {
@@ -72,7 +72,7 @@
                 }
             ],
             "description": "Mandryn Component Library",
-            "time": "2016-05-14 15:58:05"
+            "time": "2016-05-15 18:04:53"
         },
         {
             "name": "psr/log",
