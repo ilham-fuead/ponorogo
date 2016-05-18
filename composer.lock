@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ilham-fuead/mandryn.git",
-                "reference": "32cd8e76d89e20571f923597614eb7bb450af0ee"
+                "reference": "2166d90e5e643ced2f2ea790c8ce5716753a0787"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ilham-fuead/mandryn/zipball/32cd8e76d89e20571f923597614eb7bb450af0ee",
-                "reference": "32cd8e76d89e20571f923597614eb7bb450af0ee",
+                "url": "https://api.github.com/repos/ilham-fuead/mandryn/zipball/2166d90e5e643ced2f2ea790c8ce5716753a0787",
+                "reference": "2166d90e5e643ced2f2ea790c8ce5716753a0787",
                 "shasum": ""
             },
             "require": {
@@ -31,7 +31,8 @@
             "autoload": {
                 "psr-4": {
                     "Mandryn\\db\\": "src/db/",
-                    "Mandryn\\db\\constant\\": "src/db/constant/"
+                    "Mandryn\\db\\constant\\": "src/db/constant/",
+                    "": "src/mandryn_v1/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -72,7 +73,7 @@
                 }
             ],
             "description": "Mandryn Component Library",
-            "time": "2016-05-15 18:04:53"
+            "time": "2016-05-18 03:23:29"
         },
         {
             "name": "psr/log",
