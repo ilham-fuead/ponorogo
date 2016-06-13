@@ -15,7 +15,7 @@
     $username='root';
     $password='c@b@ng';
     $database_name='esila';
-    $database_name='test';
+    //$database_name='test';
      
     /* Home Notebook 
     $host='localhost';    
